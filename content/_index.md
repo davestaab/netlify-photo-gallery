@@ -25,3 +25,9 @@ Here is how to add some photos to the gallery:
 3. By running `git lfs ls-files`, you can double check which files are managed by Large Media.
 
 With Netlify Large Media, you can do a cool thing like image transformation. You can see the [documentation](https://www.netlify.com/docs/image-transformation/) for more detail.
+
+### Transformation demo with Apple
+
+Transformation with Netlify Large Media is easy. You can just add a query parameter at the end of the image src URL to specify which transformation you want.
+
+Here is the sample code that you can play with.
